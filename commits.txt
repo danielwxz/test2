@@ -1,0 +1,17 @@
+commit cc44f20c9059ce321afccfec9680e39b1c6c7306
+Author: Daniel Soto <daniel.wxz@gmail.com>
+Date:   Wed Sep 15 22:09:49 2021 -0600
+
+    eliminamos logistica del main
+
+commit 1a693b7ea20f09df4c7d925a8b26f6ae253dc8e6
+Author: Daniel Soto <daniel.wxz@gmail.com>
+Date:   Wed Sep 15 22:08:57 2021 -0600
+
+    cambio de carpeta para logistica
+
+commit 2b72a19ebde98c71670deb4e9c96abeec9c57133
+Author: Daniel Soto <daniel.wxz@gmail.com>
+Date:   Wed Sep 15 22:06:15 2021 -0600
+
+    Inicializacion
